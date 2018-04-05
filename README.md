@@ -1,0 +1,1 @@
+# Card-reader-not-working-on-casino-operator-account.
